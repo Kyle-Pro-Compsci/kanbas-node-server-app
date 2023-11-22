@@ -3,7 +3,7 @@
       "$oid": "65510e70870c092d5441bc94"
     },
     "name": "Rocket Propulsion",
-    "number": "RS4550",
+    "number": "RS101",
     "startDate": "2023-01-10",
     "endDate": "2023-05-15",
     "department": "D123",
@@ -15,7 +15,7 @@
       "$oid": "65510e70870c092d5441bc95"
     },
     "name": "Aerodynamics",
-    "number": "RS4560",
+    "number": "RS102",
     "startDate": "2023-01-10",
     "endDate": "2023-05-15",
     "department": "D123",
@@ -27,7 +27,7 @@
       "$oid": "65510e70870c092d5441bc96"
     },
     "name": "Spacecraft Design",
-    "number": "RS4570",
+    "number": "RS103",
     "startDate": "2023-01-10",
     "endDate": "2023-05-15",
     "department": "D123",
