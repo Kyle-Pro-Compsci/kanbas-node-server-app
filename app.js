@@ -47,4 +47,5 @@ Hello(app);
 console.log(`DB_CONNECTION_STRING: ${process.env.DB_CONNECTION_STRING}`);
 console.log(`FRONTEND_URL: ${process.env.FRONTEND_URL}`);
 console.log(`NODE_ENV: ${process.env.NODE_ENV}`);
+console.log(`PORT: ${process.env.PORT}`);
 app.listen(process.env.PORT || 4000);
